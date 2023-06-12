@@ -1,0 +1,160 @@
+-- Merging decision tree log ---
+application
+INJECTED from C:\Users\mwang\Projects\weather\android\app\src\main\AndroidManifest.xml:3:4-33:19
+MERGED from [androidx.window:window:1.0.0-beta04] C:\Users\mwang\.gradle\caches\transforms-3\17edf4ec98e271b988b6fdc59bf9aec9\transformed\jetified-window-1.0.0-beta04\AndroidManifest.xml:24:5-31:19
+MERGED from [androidx.window:window:1.0.0-beta04] C:\Users\mwang\.gradle\caches\transforms-3\17edf4ec98e271b988b6fdc59bf9aec9\transformed\jetified-window-1.0.0-beta04\AndroidManifest.xml:24:5-31:19
+MERGED from [com.google.android.gms:play-services-location:17.0.0] C:\Users\mwang\.gradle\caches\transforms-3\2cac143bf206d9634eb1c23cf0cf2655\transformed\jetified-play-services-location-17.0.0\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-location:17.0.0] C:\Users\mwang\.gradle\caches\transforms-3\2cac143bf206d9634eb1c23cf0cf2655\transformed\jetified-play-services-location-17.0.0\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-base:17.0.0] C:\Users\mwang\.gradle\caches\transforms-3\64ea64aa6adf08b227a83903cb67d6ba\transformed\jetified-play-services-base-17.0.0\AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-base:17.0.0] C:\Users\mwang\.gradle\caches\transforms-3\64ea64aa6adf08b227a83903cb67d6ba\transformed\jetified-play-services-base-17.0.0\AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-places-placereport:17.0.0] C:\Users\mwang\.gradle\caches\transforms-3\34bf94f7f00e777ddfd38d33d0544c74\transformed\jetified-play-services-places-placereport-17.0.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-places-placereport:17.0.0] C:\Users\mwang\.gradle\caches\transforms-3\34bf94f7f00e777ddfd38d33d0544c74\transformed\jetified-play-services-places-placereport-17.0.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] C:\Users\mwang\.gradle\caches\transforms-3\f3c7a6d9f6125edcc40c2d4132b0615e\transformed\jetified-play-services-tasks-17.0.0\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] C:\Users\mwang\.gradle\caches\transforms-3\f3c7a6d9f6125edcc40c2d4132b0615e\transformed\jetified-play-services-tasks-17.0.0\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\mwang\.gradle\caches\transforms-3\5efd6924abdda1073b25fad3268e157b\transformed\jetified-play-services-basement-17.0.0\AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\mwang\.gradle\caches\transforms-3\5efd6924abdda1073b25fad3268e157b\transformed\jetified-play-services-basement-17.0.0\AndroidManifest.xml:22:5-26:19
+MERGED from [androidx.core:core:1.6.0] C:\Users\mwang\.gradle\caches\transforms-3\4bf2c89acde0efb33ce311eb75dda510\transformed\core-1.6.0\AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.6.0] C:\Users\mwang\.gradle\caches\transforms-3\4bf2c89acde0efb33ce311eb75dda510\transformed\core-1.6.0\AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\mwang\.gradle\caches\transforms-3\1a282d47aa918b1727a7c6c0b56f8337\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\mwang\.gradle\caches\transforms-3\1a282d47aa918b1727a7c6c0b56f8337\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.6.0] C:\Users\mwang\.gradle\caches\transforms-3\4bf2c89acde0efb33ce311eb75dda510\transformed\core-1.6.0\AndroidManifest.xml:24:18-86
+	android:name
+		INJECTED from C:\Users\mwang\Projects\weather\android\app\src\main\AndroidManifest.xml
+manifest
+ADDED from C:\Users\mwang\Projects\weather\android\app\src\main\AndroidManifest.xml:1:1-34:12
+INJECTED from C:\Users\mwang\Projects\weather\android\app\src\main\AndroidManifest.xml:1:1-34:12
+INJECTED from C:\Users\mwang\Projects\weather\android\app\src\main\AndroidManifest.xml:1:1-34:12
+INJECTED from C:\Users\mwang\Projects\weather\android\app\src\main\AndroidManifest.xml:1:1-34:12
+MERGED from C:\Users\mwang\Projects\weather\android\app\src\main\AndroidManifest.xml:1:1-34:12
+MERGED from [:geolocator_android] C:\Users\mwang\Projects\weather\build\geolocator_android\intermediates\merged_manifest\debug\AndroidManifest.xml:2:1-9:12
+MERGED from [:geocoding_android] C:\Users\mwang\Projects\weather\build\geocoding_android\intermediates\merged_manifest\debug\AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.window:window-java:1.0.0-beta04] C:\Users\mwang\.gradle\caches\transforms-3\6fc788e202ed6671d7df7e41b313b78e\transformed\jetified-window-java-1.0.0-beta04\AndroidManifest.xml:17:1-23:12
+MERGED from [androidx.window:window:1.0.0-beta04] C:\Users\mwang\.gradle\caches\transforms-3\17edf4ec98e271b988b6fdc59bf9aec9\transformed\jetified-window-1.0.0-beta04\AndroidManifest.xml:17:1-33:12
+MERGED from [com.google.android.gms:play-services-location:17.0.0] C:\Users\mwang\.gradle\caches\transforms-3\2cac143bf206d9634eb1c23cf0cf2655\transformed\jetified-play-services-location-17.0.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-base:17.0.0] C:\Users\mwang\.gradle\caches\transforms-3\64ea64aa6adf08b227a83903cb67d6ba\transformed\jetified-play-services-base-17.0.0\AndroidManifest.xml:17:1-29:12
+MERGED from [com.google.android.gms:play-services-places-placereport:17.0.0] C:\Users\mwang\.gradle\caches\transforms-3\34bf94f7f00e777ddfd38d33d0544c74\transformed\jetified-play-services-places-placereport-17.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] C:\Users\mwang\.gradle\caches\transforms-3\f3c7a6d9f6125edcc40c2d4132b0615e\transformed\jetified-play-services-tasks-17.0.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\mwang\.gradle\caches\transforms-3\5efd6924abdda1073b25fad3268e157b\transformed\jetified-play-services-basement-17.0.0\AndroidManifest.xml:17:1-28:12
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\mwang\.gradle\caches\transforms-3\cf5184dfc0af7079c314dc8d7aad44ba\transformed\fragment-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\mwang\.gradle\caches\transforms-3\8d675041a39d56908189eefdab1811dc\transformed\viewpager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\mwang\.gradle\caches\transforms-3\a3f1f5ac768df56fe7ff64935ec470ce\transformed\loader-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\mwang\.gradle\caches\transforms-3\2397e35ba06c1405ab26b7cfba72bf08\transformed\jetified-activity-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\mwang\.gradle\caches\transforms-3\8a4671aeb5b508777e521dd17538ee8e\transformed\customview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.6.0] C:\Users\mwang\.gradle\caches\transforms-3\4bf2c89acde0efb33ce311eb75dda510\transformed\core-1.6.0\AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] C:\Users\mwang\.gradle\caches\transforms-3\a5a313ad947f4fea3f21a30ad4d68e07\transformed\lifecycle-runtime-2.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\mwang\.gradle\caches\transforms-3\918af48abbc9fe6b92e485dcff194bbb\transformed\jetified-savedstate-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\mwang\.gradle\caches\transforms-3\64a2c3217b45294dc72ba9ce1c251161\transformed\lifecycle-livedata-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\mwang\.gradle\caches\transforms-3\2d7b92e61bf048e772d234c8d6b6b0d3\transformed\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\mwang\.gradle\caches\transforms-3\d7a6271e6b341303fe546bbb3c23415b\transformed\jetified-tracing-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\mwang\.gradle\caches\transforms-3\195f9b06316397cf87026f2c1db9018e\transformed\core-runtime-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\mwang\.gradle\caches\transforms-3\1a282d47aa918b1727a7c6c0b56f8337\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\mwang\.gradle\caches\transforms-3\48c965fd602766ad176481994001d9ca\transformed\lifecycle-viewmodel-2.1.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] C:\Users\mwang\.gradle\caches\transforms-3\ccbd2ed7292ac9ff9e25c5b350208c54\transformed\jetified-annotation-experimental-1.1.0\AndroidManifest.xml:17:1-24:12
+INJECTED from C:\Users\mwang\Projects\weather\android\app\src\debug\AndroidManifest.xml:1:1-8:12
+INJECTED from C:\Users\mwang\Projects\weather\android\app\src\debug\AndroidManifest.xml:1:1-8:12
+INJECTED from C:\Users\mwang\Projects\weather\android\app\src\debug\AndroidManifest.xml:1:1-8:12
+	package
+		ADDED from C:\Users\mwang\Projects\weather\android\app\src\main\AndroidManifest.xml:2:5-34
+		INJECTED from C:\Users\mwang\Projects\weather\android\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\mwang\Projects\weather\android\app\src\debug\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\mwang\Projects\weather\android\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\mwang\Projects\weather\android\app\src\main\AndroidManifest.xml:1:1-34:12
+		INJECTED from C:\Users\mwang\Projects\weather\android\app\src\debug\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\mwang\Projects\weather\android\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\mwang\Projects\weather\android\app\src\main\AndroidManifest.xml:1:1-34:12
+		INJECTED from C:\Users\mwang\Projects\weather\android\app\src\debug\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\mwang\Projects\weather\android\app\src\main\AndroidManifest.xml:1:11-69
+uses-sdk
+INJECTED from C:\Users\mwang\Projects\weather\android\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\mwang\Projects\weather\android\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\mwang\Projects\weather\android\app\src\main\AndroidManifest.xml
+MERGED from [:geolocator_android] C:\Users\mwang\Projects\weather\build\geolocator_android\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-7:41
+MERGED from [:geolocator_android] C:\Users\mwang\Projects\weather\build\geolocator_android\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-7:41
+MERGED from [:geocoding_android] C:\Users\mwang\Projects\weather\build\geocoding_android\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-7:41
+MERGED from [:geocoding_android] C:\Users\mwang\Projects\weather\build\geocoding_android\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.window:window-java:1.0.0-beta04] C:\Users\mwang\.gradle\caches\transforms-3\6fc788e202ed6671d7df7e41b313b78e\transformed\jetified-window-java-1.0.0-beta04\AndroidManifest.xml:19:5-21:41
+MERGED from [androidx.window:window-java:1.0.0-beta04] C:\Users\mwang\.gradle\caches\transforms-3\6fc788e202ed6671d7df7e41b313b78e\transformed\jetified-window-java-1.0.0-beta04\AndroidManifest.xml:19:5-21:41
+MERGED from [androidx.window:window:1.0.0-beta04] C:\Users\mwang\.gradle\caches\transforms-3\17edf4ec98e271b988b6fdc59bf9aec9\transformed\jetified-window-1.0.0-beta04\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.window:window:1.0.0-beta04] C:\Users\mwang\.gradle\caches\transforms-3\17edf4ec98e271b988b6fdc59bf9aec9\transformed\jetified-window-1.0.0-beta04\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.gms:play-services-location:17.0.0] C:\Users\mwang\.gradle\caches\transforms-3\2cac143bf206d9634eb1c23cf0cf2655\transformed\jetified-play-services-location-17.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-location:17.0.0] C:\Users\mwang\.gradle\caches\transforms-3\2cac143bf206d9634eb1c23cf0cf2655\transformed\jetified-play-services-location-17.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-base:17.0.0] C:\Users\mwang\.gradle\caches\transforms-3\64ea64aa6adf08b227a83903cb67d6ba\transformed\jetified-play-services-base-17.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:17.0.0] C:\Users\mwang\.gradle\caches\transforms-3\64ea64aa6adf08b227a83903cb67d6ba\transformed\jetified-play-services-base-17.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-places-placereport:17.0.0] C:\Users\mwang\.gradle\caches\transforms-3\34bf94f7f00e777ddfd38d33d0544c74\transformed\jetified-play-services-places-placereport-17.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-places-placereport:17.0.0] C:\Users\mwang\.gradle\caches\transforms-3\34bf94f7f00e777ddfd38d33d0544c74\transformed\jetified-play-services-places-placereport-17.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] C:\Users\mwang\.gradle\caches\transforms-3\f3c7a6d9f6125edcc40c2d4132b0615e\transformed\jetified-play-services-tasks-17.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] C:\Users\mwang\.gradle\caches\transforms-3\f3c7a6d9f6125edcc40c2d4132b0615e\transformed\jetified-play-services-tasks-17.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\mwang\.gradle\caches\transforms-3\5efd6924abdda1073b25fad3268e157b\transformed\jetified-play-services-basement-17.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\mwang\.gradle\caches\transforms-3\5efd6924abdda1073b25fad3268e157b\transformed\jetified-play-services-basement-17.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\mwang\.gradle\caches\transforms-3\cf5184dfc0af7079c314dc8d7aad44ba\transformed\fragment-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\mwang\.gradle\caches\transforms-3\cf5184dfc0af7079c314dc8d7aad44ba\transformed\fragment-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\mwang\.gradle\caches\transforms-3\8d675041a39d56908189eefdab1811dc\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\mwang\.gradle\caches\transforms-3\8d675041a39d56908189eefdab1811dc\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\mwang\.gradle\caches\transforms-3\a3f1f5ac768df56fe7ff64935ec470ce\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\mwang\.gradle\caches\transforms-3\a3f1f5ac768df56fe7ff64935ec470ce\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\mwang\.gradle\caches\transforms-3\2397e35ba06c1405ab26b7cfba72bf08\transformed\jetified-activity-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\mwang\.gradle\caches\transforms-3\2397e35ba06c1405ab26b7cfba72bf08\transformed\jetified-activity-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\mwang\.gradle\caches\transforms-3\8a4671aeb5b508777e521dd17538ee8e\transformed\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\mwang\.gradle\caches\transforms-3\8a4671aeb5b508777e521dd17538ee8e\transformed\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.6.0] C:\Users\mwang\.gradle\caches\transforms-3\4bf2c89acde0efb33ce311eb75dda510\transformed\core-1.6.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.6.0] C:\Users\mwang\.gradle\caches\transforms-3\4bf2c89acde0efb33ce311eb75dda510\transformed\core-1.6.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] C:\Users\mwang\.gradle\caches\transforms-3\a5a313ad947f4fea3f21a30ad4d68e07\transformed\lifecycle-runtime-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] C:\Users\mwang\.gradle\caches\transforms-3\a5a313ad947f4fea3f21a30ad4d68e07\transformed\lifecycle-runtime-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\mwang\.gradle\caches\transforms-3\918af48abbc9fe6b92e485dcff194bbb\transformed\jetified-savedstate-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\mwang\.gradle\caches\transforms-3\918af48abbc9fe6b92e485dcff194bbb\transformed\jetified-savedstate-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\mwang\.gradle\caches\transforms-3\64a2c3217b45294dc72ba9ce1c251161\transformed\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\mwang\.gradle\caches\transforms-3\64a2c3217b45294dc72ba9ce1c251161\transformed\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\mwang\.gradle\caches\transforms-3\2d7b92e61bf048e772d234c8d6b6b0d3\transformed\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\mwang\.gradle\caches\transforms-3\2d7b92e61bf048e772d234c8d6b6b0d3\transformed\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\mwang\.gradle\caches\transforms-3\d7a6271e6b341303fe546bbb3c23415b\transformed\jetified-tracing-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\mwang\.gradle\caches\transforms-3\d7a6271e6b341303fe546bbb3c23415b\transformed\jetified-tracing-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\mwang\.gradle\caches\transforms-3\195f9b06316397cf87026f2c1db9018e\transformed\core-runtime-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\mwang\.gradle\caches\transforms-3\195f9b06316397cf87026f2c1db9018e\transformed\core-runtime-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\mwang\.gradle\caches\transforms-3\1a282d47aa918b1727a7c6c0b56f8337\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\mwang\.gradle\caches\transforms-3\1a282d47aa918b1727a7c6c0b56f8337\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\mwang\.gradle\caches\transforms-3\48c965fd602766ad176481994001d9ca\transformed\lifecycle-viewmodel-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\mwang\.gradle\caches\transforms-3\48c965fd602766ad176481994001d9ca\transformed\lifecycle-viewmodel-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] C:\Users\mwang\.gradle\caches\transforms-3\ccbd2ed7292ac9ff9e25c5b350208c54\transformed\jetified-annotation-experimental-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] C:\Users\mwang\.gradle\caches\transforms-3\ccbd2ed7292ac9ff9e25c5b350208c54\transformed\jetified-annotation-experimental-1.1.0\AndroidManifest.xml:20:5-22:41
+INJECTED from C:\Users\mwang\Projects\weather\android\app\src\debug\AndroidManifest.xml
+INJECTED from C:\Users\mwang\Projects\weather\android\app\src\debug\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\mwang\Projects\weather\android\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\mwang\Projects\weather\android\app\src\debug\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\mwang\Projects\weather\android\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\mwang\Projects\weather\android\app\src\debug\AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\mwang\Projects\weather\android\app\src\debug\AndroidManifest.xml:7:5-66
+	android:name
+		ADDED from C:\Users\mwang\Projects\weather\android\app\src\debug\AndroidManifest.xml:7:22-64
+uses-library#androidx.window.extensions
+ADDED from [androidx.window:window:1.0.0-beta04] C:\Users\mwang\.gradle\caches\transforms-3\17edf4ec98e271b988b6fdc59bf9aec9\transformed\jetified-window-1.0.0-beta04\AndroidManifest.xml:25:9-27:40
+	android:required
+		ADDED from [androidx.window:window:1.0.0-beta04] C:\Users\mwang\.gradle\caches\transforms-3\17edf4ec98e271b988b6fdc59bf9aec9\transformed\jetified-window-1.0.0-beta04\AndroidManifest.xml:27:13-37
+	android:name
+		ADDED from [androidx.window:window:1.0.0-beta04] C:\Users\mwang\.gradle\caches\transforms-3\17edf4ec98e271b988b6fdc59bf9aec9\transformed\jetified-window-1.0.0-beta04\AndroidManifest.xml:26:13-54
+uses-library#androidx.window.sidecar
+ADDED from [androidx.window:window:1.0.0-beta04] C:\Users\mwang\.gradle\caches\transforms-3\17edf4ec98e271b988b6fdc59bf9aec9\transformed\jetified-window-1.0.0-beta04\AndroidManifest.xml:28:9-30:40
+	android:required
+		ADDED from [androidx.window:window:1.0.0-beta04] C:\Users\mwang\.gradle\caches\transforms-3\17edf4ec98e271b988b6fdc59bf9aec9\transformed\jetified-window-1.0.0-beta04\AndroidManifest.xml:30:13-37
+	android:name
+		ADDED from [androidx.window:window:1.0.0-beta04] C:\Users\mwang\.gradle\caches\transforms-3\17edf4ec98e271b988b6fdc59bf9aec9\transformed\jetified-window-1.0.0-beta04\AndroidManifest.xml:29:13-51
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:17.0.0] C:\Users\mwang\.gradle\caches\transforms-3\64ea64aa6adf08b227a83903cb67d6ba\transformed\jetified-play-services-base-17.0.0\AndroidManifest.xml:23:9-26:75
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:17.0.0] C:\Users\mwang\.gradle\caches\transforms-3\64ea64aa6adf08b227a83903cb67d6ba\transformed\jetified-play-services-base-17.0.0\AndroidManifest.xml:25:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:17.0.0] C:\Users\mwang\.gradle\caches\transforms-3\64ea64aa6adf08b227a83903cb67d6ba\transformed\jetified-play-services-base-17.0.0\AndroidManifest.xml:26:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:17.0.0] C:\Users\mwang\.gradle\caches\transforms-3\64ea64aa6adf08b227a83903cb67d6ba\transformed\jetified-play-services-base-17.0.0\AndroidManifest.xml:24:13-79
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\mwang\.gradle\caches\transforms-3\5efd6924abdda1073b25fad3268e157b\transformed\jetified-play-services-basement-17.0.0\AndroidManifest.xml:23:9-25:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\mwang\.gradle\caches\transforms-3\5efd6924abdda1073b25fad3268e157b\transformed\jetified-play-services-basement-17.0.0\AndroidManifest.xml:25:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\mwang\.gradle\caches\transforms-3\5efd6924abdda1073b25fad3268e157b\transformed\jetified-play-services-basement-17.0.0\AndroidManifest.xml:24:13-58

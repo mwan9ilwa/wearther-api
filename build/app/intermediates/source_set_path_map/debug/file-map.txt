@@ -1,0 +1,16 @@
+com.example.weather.app-jetified-window-1.0.0-beta04-0 C:\Users\mwang\.gradle\caches\transforms-3\17edf4ec98e271b988b6fdc59bf9aec9\transformed\jetified-window-1.0.0-beta04\res
+com.example.weather.app-core-1.6.0-1 C:\Users\mwang\.gradle\caches\transforms-3\4bf2c89acde0efb33ce311eb75dda510\transformed\core-1.6.0\res
+com.example.weather.app-jetified-play-services-basement-17.0.0-2 C:\Users\mwang\.gradle\caches\transforms-3\5efd6924abdda1073b25fad3268e157b\transformed\jetified-play-services-basement-17.0.0\res
+com.example.weather.app-jetified-play-services-base-17.0.0-3 C:\Users\mwang\.gradle\caches\transforms-3\64ea64aa6adf08b227a83903cb67d6ba\transformed\jetified-play-services-base-17.0.0\res
+com.example.weather.app-jetified-window-java-1.0.0-beta04-4 C:\Users\mwang\.gradle\caches\transforms-3\6fc788e202ed6671d7df7e41b313b78e\transformed\jetified-window-java-1.0.0-beta04\res
+com.example.weather.app-jetified-annotation-experimental-1.1.0-5 C:\Users\mwang\.gradle\caches\transforms-3\ccbd2ed7292ac9ff9e25c5b350208c54\transformed\jetified-annotation-experimental-1.1.0\res
+com.example.weather.app-debug-6 C:\Users\mwang\Projects\weather\android\app\src\debug\res
+com.example.weather.app-main-7 C:\Users\mwang\Projects\weather\android\app\src\main\res
+com.example.weather.app-pngs-8 C:\Users\mwang\Projects\weather\build\app\generated\res\pngs\debug
+com.example.weather.app-resValues-9 C:\Users\mwang\Projects\weather\build\app\generated\res\resValues\debug
+com.example.weather.app-rs-10 C:\Users\mwang\Projects\weather\build\app\generated\res\rs\debug
+com.example.weather.app-mergeDebugResources-11 C:\Users\mwang\Projects\weather\build\app\intermediates\incremental\debug\mergeDebugResources\merged.dir
+com.example.weather.app-mergeDebugResources-12 C:\Users\mwang\Projects\weather\build\app\intermediates\incremental\debug\mergeDebugResources\stripped.dir
+com.example.weather.app-merged_res-13 C:\Users\mwang\Projects\weather\build\app\intermediates\merged_res\debug
+com.example.weather.app-packaged_res-14 C:\Users\mwang\Projects\weather\build\geocoding_android\intermediates\packaged_res\debug
+com.example.weather.app-packaged_res-15 C:\Users\mwang\Projects\weather\build\geolocator_android\intermediates\packaged_res\debug
